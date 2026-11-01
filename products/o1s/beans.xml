@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+     SPDX-FileCopyrightText: Paranoid Android
+     SPDX-License-Identifier: Apache-2.0
+-->
+<!-- The o1s repositories come from the o1s local manifest
+     (.repo/local_manifests/o1s.xml), which also replaces some AOSPA
+     repositories, so there is nothing for barista to add here. -->
+<manifest />
